@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="diver_detection" type="detector_go.py" name="detector_go" /> 
+
+</launch>
